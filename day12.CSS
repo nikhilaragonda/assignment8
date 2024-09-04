@@ -1,0 +1,43 @@
+.light{
+    border: 20px solid black;
+    width: 100px;
+    height: 100px;
+    margin: px;
+    border-radius: 18px;
+    background-color: black;
+}
+.light11{
+    
+    border-radius: 60px;
+    border: 20px solid;
+    width: 90px;
+    height: 90px;
+    margin-left:-15px ;
+    margin-top: -15px;
+    background-image:radial-gradient(rgb(255, 0, 0),black);
+}
+.light12{
+    border-radius: 60px;
+    border: 20px solid;
+    width: 90px;
+    height: 90px;
+    margin-left:-15px ;
+    margin-top: -15px;
+    background-image:radial-gradient(rgb(255, 208, 0),black);
+
+}
+.light13{
+    border-radius: 60px;
+    border: 20px solid;
+    width: 90px;
+    height: 90px;
+    margin-left:-15px ;
+    margin-top: -15px;
+    background-image:radial-gradient(rgb(16, 194, 10),black);
+}
+.box{
+    border: 25px solid;
+    width: 0px;
+    height: 150px;
+    margin-left: 43px;
+}
